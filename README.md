@@ -14,3 +14,6 @@ Using 'Annotations.csv', I was able to get the first 1000 datapoints from each u
 
 Then tried out different ML models like RandomForest, Decision Tree Classifier, SVM etc.
 Got an accuracy of 90% using the Random Forest Classifier.
+
+
+Link: https://link.springer.com/chapter/10.1007/978-3-031-69986-3_16?
